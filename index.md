@@ -38,12 +38,14 @@ Actively assisted the Core team.
 | Payments on the Main page |
 | Contractors |
 
-**Swift
+```
+Swift
 VIPER architecture
 OOP + POP
 MyDSS electronic signature library
 KISS DRY YAGNI
-Covering features with VoiceOver accessibility**
+Covering features with VoiceOver accessibility
+```
 
 [AppStore](https://apps.apple.com/ru/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/id899985834)
 
@@ -60,11 +62,13 @@ Participated in the creation of a new Online Banking product.
 | Authorization |
 | Profile |
 
-**Swift
+```
+Swift
 Clean architecture
 UIKit, Coordinators
 DI, Linters, CardIO, 
-Atomic design system**
+Atomic design system
+```
 
 [AppStore](https://apps.apple.com/ru/app/sberbank-kz/id1540248822)
 
@@ -74,7 +78,9 @@ Moscow, Russia*
 
 Participated in the development of the NUUM platform for financial transactions with special bonuses.
 
-**Swift 
+```
+Swift 
 SwiftUI  
 MVVM, MVC  architecture
-CoreData, iCloudKit, Firebase, Realm **
+CoreData, iCloudKit, Firebase, Realm
+```
