@@ -11,11 +11,13 @@
 *May'21 - Present
 Almaty, Kazakhstan*
 
-**Swift**
-**SwiftUI**
-**MVVM architecture**
-**Combine, React**
-**Coordinators pattern**
+```
+Swift
+SwiftUI
+MVVM architecture
+Combine, React
+Coordinators pattern
+```
 
 [Airba.kz](https://airba.kz)
 [AppStore](https://apps.apple.com/kz/app/airba/id1609020292)
