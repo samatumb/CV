@@ -1,108 +1,78 @@
-# Samat Umirbekov
+## Samat Umirbekov
 
-##  iOS developer
+###  iOS developer
+Almaty, Kazakhstan
+e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
+telegram: [somfish19](https://telegram.me/somfish19)
 
-🇷🇺  Russia, Moscow
+## Experience
 
-**email**: [**samatumb@gmail.com**](mailto:samatumb@gmail.com)
+### Airba.kz Marketplace
+*May'21 - Present
+Almaty, Kazakhstan*
 
-**twitter**: [**samatumb**](https://twitter.com/samatumb)
+**Swift
+SwiftUI
+MVVM architecture
+Combine, React
+Coordinators pattern**
 
-**telegram**: [**somfish19**](https://telegram.me/somfish19)
+[Airba.kz](https://airba.kz)
+[AppStore](https://apps.apple.com/kz/app/airba/id1609020292)
 
----
+### Sber Russia
 
-# 👨🏻‍💻 Experience
+*Sep'21 - Apr'22
+Moscow, Russia*
 
-### 1. SBER
+Mobile application Sberbank Business for legal entities.
+Work in 2 agile teams represented by a single iOS developer, iOS Team - 42 people.
+Actively assisted the Core team.
 
-<aside>
-🇷🇺 Russia, Moscow
+| Responsibility |
+| - |
+| Electronic signature |
+| Fast payment system |
+| Payments on the Main page |
+| Contractors |
 
-</aside>
+**Swift
+VIPER architecture
+OOP + POP
+MyDSS electronic signature library
+KISS DRY YAGNI
+Covering features with VoiceOver accessibility**
 
-![A662AA16-C029-402B-B0AA-5956CED62128.jpeg](A662AA16-C029-402B-B0AA-5956CED62128.jpeg)
+[AppStore](https://apps.apple.com/ru/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/id899985834)
 
-[‎СберБизнес](https://apps.apple.com/ru/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/id899985834)
+### Sber Kazakhstan
+*Nov'20 - Sep'21
+Almaty, Kazakhstan*
 
----
+Participated in the creation of a new Online Banking product.
 
-### 2. Sberbank Kazakhstan
+| Responsibility |
+| - |
+| Internal Transfers |
+| External Transfers |
+| Authorization |
+| Profile |
 
-<aside>
-🇰🇿 Kazakhstan, Almaty
+**Swift
+Clean architecture
+UIKit, Coordinators
+DI, Linters, CardIO, 
+Atomic design system**
 
-</aside>
+[AppStore](https://apps.apple.com/ru/app/sberbank-kz/id1540248822)
 
-![2C91A9B6-D172-4A1B-A566-5211B2B13272.png](2C91A9B6-D172-4A1B-A566-5211B2B13272.png)
+### CreamCode
+*Jan'20 - Sep'20
+Moscow, Russia*
 
-[‎Sberbank KZ](https://apps.apple.com/ru/app/sberbank-kz/id1540248822)
+Participated in the development of the NUUM platform for financial transactions with special bonuses.
 
----
-
-# 🐶 Pet projects
-
-### 1. Goodhabs - Healthy Habit Tracker
-
-![Samat%20Umirbekov%2005f1af4fc3b6495f8c3c19a69c48407c/__2020-08-28__01.06.03.png](__2020-08-28__01.06.03.png)
-
-[‎Goodhabs - Healthy Habits](https://apps.apple.com/app/id1518926761)
-
-- Combine, Singleton, SwiftUI + UIKit
-- UserDefaults, Core data, Notifications
-- Firebase, Firestore, TestFlight
-- Unit UI Tests
-- Localization, Calendars
-- Sounds, Animations
-
----
-
-### 2. Mosquitos - iPad Game
-
-![Samat%20Umirbekov%2005f1af4fc3b6495f8c3c19a69c48407c/mosquitos.gif](mosquitos.gif)
-
-[samatumb/mosquitos](https://github.com/samatumb/mosquitos)
-
-- iPadOS
-- SpriteKit
-- SKEmitterNodes
-- GCD Timers
-- AVFoundation
-- Sounds
-- Advanced Game logic
-- Original Design
-
----
-
-### 3. Covid News - News aggregator
-
-![Samat%20Umirbekov%2005f1af4fc3b6495f8c3c19a69c48407c/covidnews.gif](covidnews.gif)
-
-[samatumb/covidnews](https://github.com/samatumb/covidnews)
-
-- UIKit
-- No storyboard (programmatic UI)
-- UICollectionView / UITableView
-- Web API request / JSON parsing
-- Web Image downloading
-- Custom Views
-- SafariServises
-- Original Flat Design
-
----
-
-# 👨🏻‍🎓 Education
-
-[Build an app with SwiftUI](https://designcode.io/swiftui)
-
-[100 Days of Swift - Hacking with Swift](https://www.hackingwithswift.com/100)
-
-[Take Home Project](https://seanallen.teachable.com/p/take-home)
-
-[100 Days of SwiftUI - Hacking with Swift](https://www.hackingwithswift.com/100/swiftui)
-
-[](https://www.udemy.com/share/101WsaAEQeeF1WRX4=/)
-
-![Samat%20Umirbekov%2005f1af4fc3b6495f8c3c19a69c48407c/certificate.jpg](certificate.jpg)
-
-![Samat%20Umirbekov%2005f1af4fc3b6495f8c3c19a69c48407c/86C2EF23-7B01-4317-B624-D80C08962963.jpeg](86C2EF23-7B01-4317-B624-D80C08962963.jpeg)
+**Swift 
+SwiftUI  
+MVVM, MVC  architecture
+CoreData, iCloudKit, Firebase, Realm **
