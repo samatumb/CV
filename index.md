@@ -6,7 +6,7 @@
  - e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
  - telegram: [somfish19](https://telegram.me/somfish19)
 
-### Leetcode
+### Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samatumb)
 <!---
 samatumb/samatumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
