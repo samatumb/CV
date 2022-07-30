@@ -1,9 +1,9 @@
 ## Samat Umirbekov
 
 ###  iOS developer
-Almaty, Kazakhstan
-e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
-telegram: [somfish19](https://telegram.me/somfish19)
+ - Almaty, Kazakhstan
+ - e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
+ - telegram: [somfish19](https://telegram.me/somfish19)
 
 ## Experience
 
