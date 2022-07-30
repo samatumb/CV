@@ -12,13 +12,9 @@
 Almaty, Kazakhstan*
 
 **Swift**
-
 **SwiftUI**
-
 **MVVM architecture**
-
 **Combine, React**
-
 **Coordinators pattern**
 
 [Airba.kz](https://airba.kz)
