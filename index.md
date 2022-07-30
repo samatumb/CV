@@ -11,7 +11,7 @@
 *May'21 - Present
 Almaty, Kazakhstan*
 
-**Swift
+**Swift**
 SwiftUI
 MVVM architecture
 Combine, React
