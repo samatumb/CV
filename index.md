@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Experience
 
 ### Airba.kz Marketplace
-*May'21 - Present
+*May'22 - Present
 Almaty, Kazakhstan*
 
 ```
