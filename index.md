@@ -4,7 +4,7 @@
 ### Contacts 
  - Almaty, Kazakhstan
  - e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
- - telegram: [somfish19](https://telegram.me/somfish19)
+ - telegram: [somfish19](https://telegram.me/somfishdev)
 
 ### Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samatumb)
@@ -27,8 +27,8 @@ Combine, React
 Coordinators pattern
 ```
 
-[Airba.kz](https://airba.kz)
-[AppStore](https://apps.apple.com/kz/app/airba/id1609020292)
+[Web app link](https://airba.kz)
+[AppStore link](https://apps.apple.com/kz/app/airba/id1609020292)
 
 ### Sber Russia
 
@@ -55,7 +55,7 @@ KISS DRY YAGNI
 Covering features with VoiceOver accessibility
 ```
 
-[AppStore](https://apps.apple.com/ru/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/id899985834)
+[AppStore link](https://apps.apple.com/ru/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/id899985834)
 
 ### Sber Kazakhstan
 *Nov'20 - Sep'21
@@ -78,7 +78,7 @@ DI, Linters, CardIO,
 Atomic design system
 ```
 
-[AppStore](https://apps.apple.com/ru/app/sberbank-kz/id1540248822)
+[AppStore link](https://apps.apple.com/ru/app/sberbank-kz/id1540248822)
 
 ### CreamCode
 *Jan'20 - Sep'20
