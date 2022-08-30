@@ -4,7 +4,7 @@
 ### Contacts 
  - Almaty, Kazakhstan
  - e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
- - telegram: [somfish19](https://telegram.me/somfishdev)
+ - telegram: [@somfishdev](https://telegram.me/somfishdev)
 
 ### Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samatumb)
