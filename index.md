@@ -48,9 +48,9 @@ Jan20 - Apr22 (2y 4m)\
 Moscow, Russia\
 iOS Team - 42 people
 
-Participated in the creation of a new Online Banking product.
-Mobile application Sberbank Business for legal entities.
-Work in 2 agile teams represented by a single iOS developer, iOS Team - 42 people.
+Participated in the creation of a new Online Banking product.\
+Mobile application Sberbank Business for legal entities.\
+Work in 2 agile teams represented by a single iOS developer.\
 Actively assisted the Core team.
 
 | Responsibility |
