@@ -1,40 +1,54 @@
 
 ## Samat Umirbekov
- iOS developer
-### Contacts 
- - Almaty, Kazakhstan
- - e-mail: [samatumb@gmail.com](mailto:samatumb@gmail.com)
- - telegram: [@somfishdev](https://telegram.me/somfishdev)
 
-### Leetcode stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/samatumb)
-<!---
-samatumb/samatumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  iOS developer 
+Almaty, Kazakhstan, e-mail [here](mailto:samatumb@gmail.com), telegram [here](https://telegram.me/somfishdev)
 
-## Experience
 
-### Airba.kz Marketplace
-*May'22 - Present
-Almaty, Kazakhstan*
+### BCC.KZ - Senior iOS
+May23 - Now (1y)\
+Remote\
+iOS Team - 25 people
+
+Mobile application BCC.KZ
+Work in Core team.
+
+| Responsibility |
+| - |
+| Authorization |
+| Security |
+| Native libs for Flutter |
+| Web Flutter AdminApp |
 
 ```
-Swift
-SwiftUI
-MVVM architecture
-Combine, React
-Coordinators pattern
+Flutter, bloC, Data-Domain-Presentation, Swift, Viper arch, Biometry OZ
 ```
 
-[Web app link](https://airba.kz)
-[AppStore link](https://apps.apple.com/kz/app/airba/id1609020292)
+### MKB - iOS Tech lead
+Apr22 - May23 (1y 1m)\
+Remote\
+iOS Team - 12 people
 
-### Sber Russia
+Mobile application MKB Invest.
+Work in Core team.
 
-*Sep'21 - Apr'22
-Moscow, Russia*
+| Responsibility |
+| - |
+| Porfolio details |
+| User login |
+| User documents |
+| Contractors |
 
+```
+Obj-C, Swift, Core graphics, Combine, React, CI/CD
+```
+
+### SBER - Middle iOS
+Jan20 - Apr22 (2y 4m)\
+Moscow, Russia\
+iOS Team - 42 people
+
+Participated in the creation of a new Online Banking product.
 Mobile application Sberbank Business for legal entities.
 Work in 2 agile teams represented by a single iOS developer, iOS Team - 42 people.
 Actively assisted the Core team.
@@ -44,51 +58,10 @@ Actively assisted the Core team.
 | Electronic signature |
 | Fast payment system |
 | Payments on the Main page |
-| Contractors |
-
-```
-Swift
-VIPER architecture
-OOP + POP
-MyDSS electronic signature library
-KISS DRY YAGNI
-Covering features with VoiceOver accessibility
-```
-
-[AppStore link](https://apps.apple.com/ru/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/id899985834)
-
-### Sber Kazakhstan
-*Nov'20 - Sep'21
-Almaty, Kazakhstan*
-
-Participated in the creation of a new Online Banking product.
-
-| Responsibility |
-| - |
-| Internal Transfers |
-| External Transfers |
+| Transfers |
 | Authorization |
 | Profile |
 
 ```
-Swift
-Clean architecture
-UIKit, Coordinators
-DI, Linters, CardIO, 
-Atomic design system
-```
-
-[AppStore link](https://apps.apple.com/ru/app/sberbank-kz/id1540248822)
-
-### CreamCode
-*Jan'20 - Sep'20
-Moscow, Russia*
-
-Participated in the development of the NUUM platform for financial transactions with special bonuses.
-
-```
-Swift 
-SwiftUI  
-MVVM, MVC  architecture
-CoreData, iCloudKit, Firebase, Realm
+Swift, VIPER/Clean arch, VoiceOver, custom DI lib, Linters, CardScan lib, Design system
 ```
